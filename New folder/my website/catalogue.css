@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url(../img/BlakPerl\ pattern\ black.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat:repeat;
+    padding: 3rem 6rem;
+}
+
+.body{
+    margin: auto; 
+    background-color: white;
+    border-radius: 18px;
+    box-shadow: 3px 2px 3px rgba(223, 223, 202, 0.651);
+    width: 70%;
+    border: 1px solid rgba(255, 245, 245, 0.671);
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 400px;
+    width: 210px;
+    align-content: space-between;
+    line-height: 80px;
+    background-color: white;
+    margin: 10px;
+    border: 1px solid rgba(247, 241, 241, 0.671);
+    border-radius: 20px;
+    padding: 1rem;
+    box-shadow:2px -8px 0px 2px rgba(255, 255, 255, 0.781); ;
+}
+
+.box p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-stretch: ultra-condensed;
+    margin-bottom: 1rem;
+    height: 30px;
+}
+
+.box1 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box2 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box3 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box4 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box5 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box6 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box7 img{
+    height: 250px;
+    width: 200px;
+    
+}
+
+.box8 img{
+    height: 250px;
+    width: 200px;
+    
+}
+
+.box9 img{
+    height: 250px;
+    width: 200px;
+}
+
+.box  a {
+    border: 1px solid rgb(245, 238, 238);
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 35px;
+
+  }
+
+.box a:hover {
+    border: 1px solid rgb(36, 35, 35);
+    background-color: rgb(31, 29, 29);
+    color: white;
+  }
+ 
